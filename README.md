@@ -2,7 +2,9 @@ Try Retro Emulator:
 --------------------
 Link: http://a-network.dynu.com:10124/
 
+
 Play classic retro games right on your web browser on any device for free, this does support PlayStation 3 and PlayStation 4 controllers, as well as 3rd party controllers and even Xbox controllers as well.
+
 
 
 Supported Devices:
@@ -10,12 +12,28 @@ Supported Devices:
 - PlayStation 4 Web Browser
 - Xbox Web Browser
 - Windows PC Web Browser (Chrome, Firefox)
-- Mac PC Web Browser
-- iPhone Web Browser
-- iPad Web Browser
-- Android Phone Web Browser
-- Android TV
-- Android Tablet
+- Mac PC Web Browser (Firefox/Chrome)
+- iPhone Web Browser (Firefox/Chrome)
+- iPad Web Browser (Firefox/Chrome)
+- Android Phone Web Browser (Firefox/Chrome)
+- Android TV (Firefox/Chrome)
+- Android Tablet (Firefox/Chrome)
+- Linux With (Firefox/Chrome)
+
+
+
+Controller Support:
+-------------------
+- Sony PlayStation 3 Controller
+- Sony PlayStation 4 Controller
+- Microsoft Xbox 360 Controller
+- Microsoft Xbox One Controller
+- Nintendo Switch Joy-Con Controller
+- Nintendo Switch Pro Controller
+- 8bit Controllers
+- Touch Screen Controls
+- Most Controllers Will Work
+
 
 
 Systems + Games Included:
