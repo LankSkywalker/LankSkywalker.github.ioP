@@ -1,4 +1,4 @@
-Try Retro Emulator:
+🔶Try Retro Emulator:🔶
 --------------------
 Link: http://a-network.dynu.com:10124/
 
@@ -7,7 +7,7 @@ Play classic retro games right on your web browser on any device for free, this 
 
 
 
-Supported Devices:
+🔶Supported Devices:🔶
 ------------------------
 - PlayStation 4 Web Browser
 - Xbox Web Browser
@@ -22,7 +22,7 @@ Supported Devices:
 
 
 
-Controller Support:
+🔶Controller Support:🔶
 -------------------
 - Sony PlayStation 3 Controller
 - Sony PlayStation 4 Controller
@@ -36,7 +36,7 @@ Controller Support:
 
 
 
-Systems + Games Included:
+🔶Systems + Games Included:🔶
 ----------------------------------
 - Atari 2600 / All USA Games
 - Atari 7800 / All USA Games
