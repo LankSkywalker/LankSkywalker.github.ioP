@@ -1,6 +1,6 @@
 🔶Try Retro Emulator:🔶
 --------------------
-Link: http://a-network.dynu.com:10124/
+Link: https://a-network.ca/retro-emulator
 
 
 Play classic retro games right on your web browser on any device for free, this does support PlayStation 3 and PlayStation 4 controllers, as well as 3rd party controllers and even Xbox controllers as well.
