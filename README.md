@@ -2,11 +2,13 @@
 --------------------
 Retro Emulator Link: https://a-network.ca/retro-emulator
 
-Controls Information Link: https://github.com/media-a-server/Emulator-Website/blob/main/Retro-Emulator-Controls.pdf
+Controls: https://github.com/media-a-server/Emulator-Website/blob/main/Retro-Emulator-Controls.pdf
+
+
+
 
 
 Play classic retro games right on your web browser on any device for free, this does support PlayStation 3 and PlayStation 4 controllers, as well as 3rd party controllers and even Xbox controllers as well.
-
 
 
 🔶Supported Devices:🔶
