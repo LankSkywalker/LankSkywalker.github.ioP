@@ -11,6 +11,7 @@ ________________________________________________________________________________
 
 Play classic retro games right on your web browser on any device for free, this does support PlayStation 3 and PlayStation 4 controllers, as well as 3rd party controllers and even Xbox controllers as well.
 
+________________________________________________________________________________________________________________________________________________________________________________
 
 🔶Supported Devices:🔶
 ------------------------
@@ -25,7 +26,7 @@ Play classic retro games right on your web browser on any device for free, this 
 - Android Tablet (Firefox/Chrome)
 - Linux With (Firefox/Chrome)
 
-
+________________________________________________________________________________________________________________________________________________________________________________
 
 🔶Controller Support:🔶
 -------------------
@@ -39,7 +40,7 @@ Play classic retro games right on your web browser on any device for free, this 
 - Touch Screen Controls
 - Most Controllers Will Work
 
-
+________________________________________________________________________________________________________________________________________________________________________________
 
 🔶Systems + Games Included:🔶
 ----------------------------------
