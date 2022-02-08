@@ -1,9 +1,10 @@
 🔶Try Retro Emulator: [FREE] [Web-Base]🔶
 --------------------
 
-🔶Play Retro Emulator Link: https://a-network.ca/retro-emulator
+🔶Play Retro Emulator Link: 
+https://a-network.ca/retro-emulator
 
-🔶Controls: https://github.com/media-a-server/Emulator-Website/blob/main/Retro-Emulator-Controls.pdf
+
 
 
 
