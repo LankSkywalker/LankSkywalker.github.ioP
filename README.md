@@ -1,8 +1,9 @@
 🔶Try Retro Emulator: [FREE]🔶
 --------------------
-Retro Emulator Link: https://a-network.ca/retro-emulator
 
-Controls: https://github.com/media-a-server/Emulator-Website/blob/main/Retro-Emulator-Controls.pdf
+🔶Retro Emulator Link: https://a-network.ca/retro-emulator
+
+🔶Controls: https://github.com/media-a-server/Emulator-Website/blob/main/Retro-Emulator-Controls.pdf
 
 
 
