@@ -1,4 +1,4 @@
-🔶Try Retro Emulator:🔶
+🔶Try Retro Emulator: [FREE]🔶
 --------------------
 Link: https://a-network.ca/retro-emulator
 
