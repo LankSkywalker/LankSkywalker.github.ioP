@@ -5,6 +5,7 @@
 
 🔶Controls: https://github.com/media-a-server/Emulator-Website/blob/main/Retro-Emulator-Controls.pdf
 
+![image](https://user-images.githubusercontent.com/50722217/153095681-1ae4ade4-0907-4c51-975d-350f65c0a942.png)
 
 
 ________________________________________________________________________________________________________________________________________________________________________________
