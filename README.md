@@ -5,7 +5,6 @@
 
 🔶Controls: https://github.com/media-a-server/Emulator-Website/blob/main/Retro-Emulator-Controls.pdf
 
-![image](https://user-images.githubusercontent.com/50722217/153095681-1ae4ade4-0907-4c51-975d-350f65c0a942.png)
 
 
 ________________________________________________________________________________________________________________________________________________________________________________
@@ -26,20 +25,6 @@ ________________________________________________________________________________
 - Android TV (Firefox/Chrome)
 - Android Tablet (Firefox/Chrome)
 - Linux With (Firefox/Chrome)
-
-________________________________________________________________________________________________________________________________________________________________________________
-
-🔶Controller Support:🔶
--------------------
-- Sony PlayStation 3 Controller
-- Sony PlayStation 4 Controller
-- Microsoft Xbox 360 Controller
-- Microsoft Xbox One Controller
-- Nintendo Switch Joy-Con Controller
-- Nintendo Switch Pro Controller
-- 8bit Controllers
-- Touch Screen Controls
-- Most Controllers Will Work
 
 ________________________________________________________________________________________________________________________________________________________________________________
 
@@ -65,6 +50,28 @@ ________________________________________________________________________________
 - WonderSwan Color
 - Sony Playstation / Few USA Games [Not Fully Working With All Games]
 - More Coming
+
+________________________________________________________________________________________________________________________________________________________________________________
+
+🔶Controller Support:🔶
+-------------------
+- Sony PlayStation 3 Controller
+- Sony PlayStation 4 Controller
+- Microsoft Xbox 360 Controller
+- Microsoft Xbox One Controller
+- Nintendo Switch Joy-Con Controller
+- Nintendo Switch Pro Controller
+- 8bit Controllers
+- Touch Screen Controls
+- Most Controllers Will Work
+
+________________________________________________________________________________________________________________________________________________________________________________
+
+![image](https://user-images.githubusercontent.com/50722217/153095804-56faa35c-5c94-431e-b718-095f431f9898.png)
+![image](https://user-images.githubusercontent.com/50722217/153095813-611db3cf-e6a7-42ad-9c84-3537d5e01325.png)
+![image](https://user-images.githubusercontent.com/50722217/153095824-67b17834-92e2-49bc-bd60-24504949f2fa.png)
+![image](https://user-images.githubusercontent.com/50722217/153095843-bdb24f1a-0be0-4fac-8eef-90f80c1fb44b.png)
+
 
 ________________________________________________________________________________________________________________________________________________________________________________
 
