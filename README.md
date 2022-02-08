@@ -64,16 +64,15 @@ ________________________________________________________________________________
 - Nintendo Switch Pro Controller
 - 8bit Controllers
 - Touch Screen Controls
+- Keyboard And Mouse
 - Most Controllers Will Work
 
 ________________________________________________________________________________________________________________________________________________________________________________
-
 ![image](https://user-images.githubusercontent.com/50722217/153095804-56faa35c-5c94-431e-b718-095f431f9898.png)
 ![image](https://user-images.githubusercontent.com/50722217/153095813-611db3cf-e6a7-42ad-9c84-3537d5e01325.png)
 ![image](https://user-images.githubusercontent.com/50722217/153095824-67b17834-92e2-49bc-bd60-24504949f2fa.png)
 ![image](https://user-images.githubusercontent.com/50722217/153095843-bdb24f1a-0be0-4fac-8eef-90f80c1fb44b.png)
-
-
 ________________________________________________________________________________________________________________________________________________________________________________
 
-🔶Play Retro Emulator: https://a-network.ca/retro-emulator
+🔶Play Retro Emulator: 
+https://a-network.ca/retro-emulator
