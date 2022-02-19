@@ -67,6 +67,12 @@ ________________________________________________________________________________
 - Keyboard And Mouse
 - Most Controllers Will Work
 
+__________________________________________________________________________________________________________________________________
+
+![This is an image](https://github.com/media-a-server/Emulator-Website/blob/main/1.jpg?raw=true)
+![This is an image](https://github.com/media-a-server/Emulator-Website/blob/main/2.jpg?raw=true)
+![This is an image](https://github.com/media-a-server/Emulator-Website/blob/main/3.jpg?raw=true)
+
 ________________________________________________________________________________________________________________________________________________________________________________
 ![image](https://user-images.githubusercontent.com/50722217/153095804-56faa35c-5c94-431e-b718-095f431f9898.png)
 ![image](https://user-images.githubusercontent.com/50722217/153095813-611db3cf-e6a7-42ad-9c84-3537d5e01325.png)
