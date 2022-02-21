@@ -1,7 +1,7 @@
 🔶Try Retro Emulator: [FREE] [Web-Base]🔶
 --------------------
 
-🔶Start Retro Emulator Link: 
+>🔶Start Retro Emulator Link: 
 https://a-network.ca/retro-emulator
 
 
@@ -80,5 +80,5 @@ ________________________________________________________________________________
 ![image](https://user-images.githubusercontent.com/50722217/153095843-bdb24f1a-0be0-4fac-8eef-90f80c1fb44b.png)
 ________________________________________________________________________________________________________________________________________________________________________________
 
-🔶Start Retro Emulator: 
+>🔶Start Retro Emulator: 
 https://a-network.ca/retro-emulator
