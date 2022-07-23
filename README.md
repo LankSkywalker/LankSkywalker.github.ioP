@@ -37,13 +37,14 @@ ________________________________________________________________________________
 - ATARI 7800 / All USA Games
 - ATARI JAGUAR / All USA Games
 - ATARI LYNX / All USA Games
-- NINTENDO ENTERAINMENT SYSTEM / All USA Games
+- NES / All USA Games
 - GAME BOY / All USA Games
 - GAME BOY COLOR / All USA Games
 - GAME BOY ADVANCE / All USA Games
 - SUPER NINTENDO / All USA Games
-- NINTENDO 64 / All USA Games
-- NINTENDO VIRTUAL BOY / All USA Games
+- N64 / All USA Games
+- N DS / Few USA Games
+- N VIRTUAL BOY / All USA Games
 - COLECOVISION / All USA Games
 - NEOGEOPOCKET COLOR / All USA Games
 - ODYSSEY 2 / All USA Games
