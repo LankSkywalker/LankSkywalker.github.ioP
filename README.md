@@ -55,7 +55,7 @@ ________________________________________________________________________________
 - SEGA SATURN / All USA Games
 - SEGA CD / All USA Games
 - PLAYSTATION / Few USA Games
-- MSN / All USA Games
+- MSX / All USA Games
 - DOOM / DOOM 2
 - VECTREX / All USA Games
 - WONDERSWAN COLOR / All USA Games
