@@ -31,25 +31,32 @@ ________________________________________________________________________________
 
 🔶Systems + Games Included:🔶
 ----------------------------------
-- Atari 2600 / All USA Games
-- Atari 7800 / All USA Games
-- Atari Jaguar / All USA Games
-- Atari Lynx / All USA Games
-- Gameboy / All USA Games
-- Gameboy Color / All USA Games
-- Gameboy Advance / All USA Games
-- Nintendo Entertainment System / All USA Games
-- Super Nintendo / All USA Games
-- Nintendo 64 / All USA Games
-- Nintendo Virtual Boy / All USA Games
-- ColecoVision / All USA Games
-- PC Engine / All USA Games
-- SEGA 32x / All USA Games
-- SEAGA Gamegear / All USA Games
-- SEGA Genesis / All USA Games
-- Doom, Doom 2
-- WonderSwan Color
-- Sony Playstation / Few USA Games [Not Fully Working With All Games]
+- 3D0 / All USA Games
+- ARCADE / All USA Games
+- ATARI 2600 / All USA Games
+- ATARI 7800 / All USA Games
+- ATARI JAGUAR / All USA Games
+- ATARI LYNX / All USA Games
+- NINTENDO ENTERAINMENT SYSTEM / All USA Games
+- GAME BOY / All USA Games
+- GAME BOY COLOR / All USA Games
+- GAME BOY ADVANCE / All USA Games
+- SUPER NINTENDO / All USA Games
+- NINTENDO 64 / All USA Games
+- NINTENDO VIRTUAL BOY / All USA Games
+- COLECOVISION / All USA Games
+- NEOGEOPOCKET COLOR / All USA Games
+- ODYSSEY 2 / All USA Games
+- PC ENGINE / All USA Games
+- SEGA X32 / All USA Games
+- SEGA GAME GEAR / All USA Games
+- SEGA GENESIS / All USA Games
+- SEGA MASTER SYSTEM / All USA Games
+- SEGA SATURN / All USA Games
+- MSN / All USA Games
+- DOOM / DOOM 2
+- VECTREX / All USA Games
+- WONDERSWAN COLOR / All USA Games
 - More Coming
 
 ________________________________________________________________________________________________________________________________________________________________________________
