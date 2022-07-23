@@ -53,6 +53,8 @@ ________________________________________________________________________________
 - SEGA GENESIS / All USA Games
 - SEGA MASTER SYSTEM / All USA Games
 - SEGA SATURN / All USA Games
+- SEGA CD / All USA Games
+- PLAYSTATION / Few USA Games
 - MSN / All USA Games
 - DOOM / DOOM 2
 - VECTREX / All USA Games
