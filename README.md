@@ -62,6 +62,8 @@ ________________________________________________________________________________
 - WONDERSWAN COLOR / All USA Games
 - More Coming
 ![This is an image](https://github.com/media-a-server/Emulator-Website/blob/main/all.jpg?raw=true)
+*28 Game Systems
+*10,845 Total Games
 
 ________________________________________________________________________________________________________________________________________________________________________________
 
