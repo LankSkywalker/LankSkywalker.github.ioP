@@ -61,6 +61,7 @@ ________________________________________________________________________________
 - VECTREX / All USA Games
 - WONDERSWAN COLOR / All USA Games
 - More Coming
+![This is an image](https://github.com/media-a-server/Emulator-Website/blob/main/all.jpg?raw=true)
 
 ________________________________________________________________________________________________________________________________________________________________________________
 
@@ -82,6 +83,12 @@ ________________________________________________________________________________
 ![This is an image](https://github.com/media-a-server/Emulator-Website/blob/main/1.jpg?raw=true)
 ![This is an image](https://github.com/media-a-server/Emulator-Website/blob/main/2.jpg?raw=true)
 ![This is an image](https://github.com/media-a-server/Emulator-Website/blob/main/3.jpg?raw=true)
+![This is an image](https://github.com/media-a-server/Emulator-Website/blob/main/4.jpg?raw=true)
+![This is an image](https://github.com/media-a-server/Emulator-Website/blob/main/5.jpg?raw=true)
+![This is an image](https://github.com/media-a-server/Emulator-Website/blob/main/6.jpg?raw=true)
+![This is an image](https://github.com/media-a-server/Emulator-Website/blob/main/7.jpg?raw=true)
+![This is an image](https://github.com/media-a-server/Emulator-Website/blob/main/8.jpg?raw=true)
+![This is an image](https://github.com/media-a-server/Emulator-Website/blob/main/9.jpg?raw=true)
 
 ________________________________________________________________________________________________________________________________________________________________________________
 ![image](https://user-images.githubusercontent.com/50722217/153095804-56faa35c-5c94-431e-b718-095f431f9898.png)
